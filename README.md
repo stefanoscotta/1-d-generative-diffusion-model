@@ -6,7 +6,7 @@ We show how it is built the forward "noising" process which starting from a give
 
 Then we built some functions needed to estimate the elements caracterizing the reverse process and we estimate the reverse process itself showing how tis distribution evolves in reverse time starting from random elements taken from $p(x_T)$.
 
-Lastly we analsyze some interesting properties of this kind of process that are evident in one dimension:
+Lastly we analyze some interesting properties of this kind of process that are evident in one dimension:
 - Conditional probability densities;
 - Joint empirical probabilities;
 - GMM for modeling joint probabilities...
