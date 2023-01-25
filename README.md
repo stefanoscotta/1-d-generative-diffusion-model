@@ -1,6 +1,6 @@
 # 1-d generative diffusion model explained
 
-The aim of this notebook is to make more understandable the generative diffusion model explicated in NOSTRO LAVORO SU ARXIV showing its properties with a simple 1-d toy model. 
+The aim of this notebook is to make more understandable the generative diffusion models explicated in NOSTRO LAVORO SU ARXIV showing its properties with a simple 1-d toy model. 
 
 We show how it is built the forward "noising" process which starting from a given distribution $p(x_0)$ converges to a final distribution $p(x_T)$ which is a $\mathcal{N}(0,1)$. 
 
